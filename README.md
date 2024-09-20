@@ -2,19 +2,11 @@
 # Uncertainty quantified deep learning and regression analysis framework for clinical regions of interest segmentation in skin lesions
 
 
-# Index:
-
-1.The complete Skin project can be obtained at: https://drive.google.com/drive/folders/1EKaJMM8IsKIql0cj4uu5NEiAEX5nyUhO?usp=drive_link <br>
-2. Data can be obtained at: https://drive.google.com/drive/folders/1Et7RFXYCPhLwLEum40hGeP6NELj4CnQn?usp=drive_link<br>
-3. The codes for training and evaluation of the TL model can be obtained at: https://drive.google.com/drive/folders/1o-Tl5UWZ6K5dEuaLjBGyAE92PxoKXkvr?usp=drive_link<br>
-4. The codes for training and evaluation of the TFS model can be obtained at: https://drive.google.com/drive/folders/1vv3QOni6obsOS7NaHzI9wHBa-mv7a_8R?usp=drive_link<br>
-
 
  # Gallery of Model Outputs
 
 ## Schematic diagram of the proposed approach.
 This workflow presents a schematic diagram of the proposed approach.
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**:<br>
 ![las1 (1)](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/12c56dd9-6f8c-4b07-934c-adb9d13902bb)
 
@@ -22,7 +14,7 @@ This workflow presents a schematic diagram of the proposed approach.
 
 Algorithm 1 is proposed to calculate the estimated Dice performance of Deep Learning Models (DLMs) using uncertainties for clinical Regions of Interest (ROIs) of skin images used in this study.
 
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
+
 - **Figure**:<br>
   ![image](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/1e895420-afc4-4179-8e88-9e3137baa77d)
 
@@ -30,7 +22,7 @@ Algorithm 1 is proposed to calculate the estimated Dice performance of Deep Lear
 
 This figure displays segmentation and uncertainty maps obtained from Bayes-by-backprop and Monte Carlo dropout augmented transfer learning (TL) and trained from scratch (TFS) deep learning models
 
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
+
 - **Figure**:<br>
 
 ![comb (1)](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/c53402bb-0d76-462c-9852-8e8ba925ca46)
@@ -44,7 +36,6 @@ This figure displays segmentation and uncertainty maps obtained from Bayes-by-ba
 ## Model Output Segmentation and Uncertainty Maps using Monte Carlo Dropout Trained From Scratch Deep Learning Model
 
 - **Visualization**: Visualization of model output and uncertainty explanations for skin lesion  segmentation by a Monte Carlo dropout (MCD) trained using the TFS deep learning model and ISIC (The International Skin Imaging Collaboration) dataset images.
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**: <br>
 ![fig4](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/47b39977-4386-4d1a-a874-5198e3e9fbe9)
 
@@ -64,7 +55,6 @@ This figure displays segmentation and uncertainty maps obtained from Bayes-by-ba
 ## Model Output Segmentation and Uncertainty Maps using Monte Carlo dropout transfer learning deep learning model
 
 - **Visualization**: Visualization of model output and uncertainty explanations for skin lesion  segmentation by a Monte Carlo dropout (MCD) trained using the TL deep learning model and ISIC (The International Skin Imaging Collaboration) dataset images.
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**:<br>
 ![fig5](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/ed4dcb57-824a-4d43-9e84-1924dd50bba0)
 
@@ -82,19 +72,16 @@ This figure displays segmentation and uncertainty maps obtained from Bayes-by-ba
 
 ##  True vs. False Positive Rates in TFS/TL models using DLM MCD /DLM Bc techniques.
 
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**:<br>
 ![tpr vs fps 2](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/34934d86-b681-4008-b326-f6d3bcf22620)
 
 ##   Visualizing the comparison of AUROC with training from scratch and transfer learning deep learning models by Monte Carlo dropout and Bayes-by-backprop.
 
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**:<br>
 ![ar_over](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/f2afa5fb-6707-4acc-b79f-11773116b237)
 
 ##   Visualizing Uncertainty Mean vs. Standard Deviation values in TFS/TL using DLM MCD /DLM Bc.
 
-- **Link**: [View on Google Drive](https://drive.google.com/drive/folders/1TbpFjp5ZnZV4T_awqUSfLWtrJXiRoK7k?usp=sharing)
 - **Figure**:<br>
 ![means vs std (1)](https://github.com/bin112/MLHC_2024_skin_project/assets/20062780/5cf8041e-a472-4be0-9090-5df6a8a7eebe)
 
